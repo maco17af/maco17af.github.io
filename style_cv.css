@@ -126,9 +126,9 @@ div.agauche
 	text-align: center;
 	box-sizing: border-box;
 	background-color: #3cb371;
-	border-width:2px;
-	border-style:solid;
-	border-color:#ffffff;
+	border-right-width:2px;
+	border-right-style:solid;
+	border-right-color:#ffffff;
     }
 
   
@@ -140,9 +140,9 @@ div.agauche
 	padding: 50px;
 	box-sizing: border-box;
     	background-color: #ecf9f2;
-	border-width:2px;
-	border-style:solid;
-	border-color:#ffffff;
+	border-left-width:2px;
+	border-left-style:solid;
+	border-left-color:#ffffff;
 }
 
 
