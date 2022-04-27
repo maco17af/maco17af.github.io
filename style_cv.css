@@ -18,6 +18,12 @@ div.entete{
 	height: 160px;
 	background-size: cover;
 	background-position: center;
+	font-weight: bold;
+	color:#133924;
+	text-align:center;
+	margin-top: 15px; 
+	margin-bottom:15px;
+	line-height: 100%;
 	font-family: "Montserrat", sans-serif;
 }
 
