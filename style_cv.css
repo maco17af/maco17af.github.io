@@ -1,1 +1,129 @@
+/*Titre*/
+.title{
+	font-size:2em;
+	font-family: "Montserrat", sans-serif;
+	font-weight:700;
+    font-weight:bold;
+}
+
+
+/*En-tete et Bas de page*/
+div.entete{
+	background: url("C:\Users\Admin\Documents\MACO\IMPORTANT\IMG_20201209_193802.jpg");
+	color: Black;
+	width: 100%;
+	margin-bottom: 0px;
+	padding: 6px 18px;
+	font-size: 1em;
+    border-bottom: 2px solid #fff;
+    height: 160px;
+	background-size: cover;
+    background-position: center;
+	font-family: "Montserrat", sans-serif;
+}
+
+div.enbas{
+    border-top: 2px solid #fff;
+}
+
+/*Corps du texte*/
+
+body{
+	font-family: "Montserrat", sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+   font-size: 2.8em; font-weight: 900;
+   margin-top: 15px; 
+   margin-bottom:15px;
+   line-height: 100%;
+   font-family: "Montserrat", sans-serif;
+}
+
+ h3 {
+   font-size: 1.6em;
+   margin-top: 0; 
+   margin-bottom: 10px;
+   font-family: "Montserrat", sans-serif;
+ }
+ 
+  h4 {
+   margin-top: 10px; margin-bottom: 10px;
+   font-size: 1em;
+ }
+
+p{
+   font-size: 1em; font-weight: 400;
+   font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  display:block;
+  background-color: #efedf7;
+  text-align:center;
+}
+
+.br{
+    width: 100%;
+    height: 2px;
+    background: #efedf7;
+}
+
+
+
+
+/*Image*/
+img{
+    width: 175px;
+	 height: 200px;
+    border-radius: 50%;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+ 
+/*A gauche*/
+div.agauche 
+{
+    width: 35%;
+	float:left;
+	padding: 50px;
+	text-align: center;
+	box-sizing: border-box;
+
+	background-color: #483d8b;
+
+    }
+
+  
+/*A droite*/
+.adroite
+{
+    width: 65%;
+	float:right;
+	padding: 50px;
+	box-sizing: border-box;
+    background-color: #dedcef;
+
+}
+
+/*Titres et sous-titres*/
+header h1, header h2{
+    color: white;
+    font-size: 1.5em;
+    width: 90%;
+    margin: 10px auto;
+    text-shadow: 1px 1px 2px #000;
+}
+
+h2 {
+  color :  #241f47;
+}
+
+
 
