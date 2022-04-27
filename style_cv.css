@@ -153,7 +153,7 @@ a:link {
 	color: black;
 }
 
-a:active {
-	background-color: #3cb371;
+a:visited {
+	color: #3cb371;
 }
 
