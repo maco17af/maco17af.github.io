@@ -126,6 +126,9 @@ div.agauche
 	text-align: center;
 	box-sizing: border-box;
 	background-color: #3cb371;
+	border-width:2px;
+	border-style:solid;
+	border-color:#ffffff;
     }
 
   
@@ -137,7 +140,9 @@ div.agauche
 	padding: 50px;
 	box-sizing: border-box;
     	background-color: #ecf9f2;
-
+	border-width:2px;
+	border-style:solid;
+	border-color:#ffffff;
 }
 
 /*Sous-titres h2*/
