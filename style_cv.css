@@ -28,12 +28,15 @@ div.entete{
 
 div.enbas{
 	background: url("original.png");
+	background-size: cover;
+	background-position: center;
 	width: 98%;
 	margin-top: 2px; 
 	margin-bottom:0px;
 	padding: 6px 18px;
     	border-top: 2px solid #fff;
 	text-align:right;
+	font-family: Helvetica, sans-serif;
 }
 
 /*Style du texte*/
