@@ -10,15 +10,14 @@
 /*En-tete et Bas de page*/
 div.entete{
 	background: url("original.png");
-	color: Black;
 	width: 100%;
 	margin-bottom: 0px;
 	padding: 6px 18px;
 	font-size: 1em;
-    border-bottom: 2px solid #fff;
-    height: 160px;
+	border-bottom: 2px solid #fff;
+	height: 160px;
 	background-size: cover;
-    background-position: center;
+	background-position: center;
 	font-family: "Montserrat", sans-serif;
 }
 
@@ -61,14 +60,14 @@ p{
 
 hr {
   display:block;
-  background-color: #efedf7;
+  background-color: #ffffff;
   text-align:center;
 }
 
 .br{
     width: 100%;
     height: 2px;
-    background: #efedf7;
+    background: #ffffff;
 }
 
 
@@ -84,8 +83,6 @@ img{
 	margin-right: auto;
 }
 
-
-
  
 /*A gauche*/
 div.agauche 
@@ -95,8 +92,7 @@ div.agauche
 	padding: 50px;
 	text-align: center;
 	box-sizing: border-box;
-
-	background-color: #483d8b;
+	background-color: #3cb371;
 
     }
 
@@ -104,11 +100,11 @@ div.agauche
 /*A droite*/
 .adroite
 {
-    width: 65%;
+    	width: 65%;
 	float:right;
 	padding: 50px;
 	box-sizing: border-box;
-    background-color: #dedcef;
+    	background-color: #ecf9f2;
 
 }
 
