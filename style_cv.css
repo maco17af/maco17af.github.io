@@ -34,11 +34,14 @@ body{
 }
 
 h1{
-   font-size: 2.8em; font-weight: 900;
-   margin-top: 15px; 
-   margin-bottom:15px;
-   line-height: 100%;
-   font-family: "Montserrat", sans-serif;
+	font-size: 2.5em; 
+	font-weight: bold;
+	color:#133924;
+	text-align:center;
+	margin-top: 15px; 
+	margin-bottom:15px;
+	line-height: 100%;
+	font-family: "Montserrat", sans-serif;
 }
 
  h3 {
@@ -93,7 +96,6 @@ div.agauche
 	text-align: center;
 	box-sizing: border-box;
 	background-color: #3cb371;
-
     }
 
   
@@ -108,17 +110,12 @@ div.agauche
 
 }
 
-/*Titres et sous-titres*/
-header h1, header h2{
-    color: white;
-    font-size: 1.5em;
-    width: 90%;
-    margin: 10px auto;
-    text-shadow: 1px 1px 2px #000;
-}
-
+/*Sous-titres h2*/
 h2 {
-  color :  #241f47;
+ 	font-size: 1.5em;
+ 	width: 90%;
+ 	margin: 10px auto;
+	color :  #20603d;
 }
 
 
