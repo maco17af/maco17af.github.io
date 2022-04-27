@@ -10,7 +10,7 @@
 /*En-tete et Bas de page*/
 div.entete{
 	background: url("original.png");
-	width: 95%;
+	width: 98%;
 	padding: 6px 18px;
 	font-size: 1em;
 	border-bottom: 2px solid #fff;
@@ -28,7 +28,7 @@ div.entete{
 
 div.enbas{
 	background: url("original.png");
-	width: 95%;
+	width: 98%;
 	margin-top: 2px; 
 	margin-bottom:0px;
 	padding: 6px 18px;
