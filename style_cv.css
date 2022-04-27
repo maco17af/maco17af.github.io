@@ -96,7 +96,7 @@ hr {
 /*Listes*/
 
 .ul{
-	list-style:circle;
+	list-style-type:circle;
 	margin:0;
 	padding:0;
 }
