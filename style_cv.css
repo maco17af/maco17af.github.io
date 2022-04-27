@@ -32,10 +32,10 @@ div.enbas{
 	margin-top: 0px; 
 	margin-bottom:15px;
 	padding: 6px 18px;
-    	border-top: 1px solid #fff;
+    	border-top: 5px solid #fff;
 }
 
-/*Corps du texte*/
+/*Style du texte*/
 
 body{
 	font-family: "Montserrat", sans-serif;
@@ -78,6 +78,8 @@ p{
    font-family: "Montserrat", sans-serif;
 }
 
+/*Separation*/
+
 hr {
   display:block;
   background-color: #ffffff;
@@ -90,6 +92,13 @@ hr {
     background: #ffffff;
 }
 
+/*Listes*/
+
+.ul{
+	list-style:circle;
+	margin:0;
+	padding:0;
+}
 
 
 
