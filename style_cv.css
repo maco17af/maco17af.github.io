@@ -39,8 +39,7 @@ div.enbas{
 	font-family: Helvetica, sans-serif;
 }
 
-/*Style du texte*/
-
+/*Style du texte et des titres*/
 body{
 	font-family: Helvetica, sans-serif;
 	padding: 0px;
@@ -57,6 +56,14 @@ h1{
 	margin-bottom:15px;
 	line-height: 100%;
 	font-family: Helvetica, sans-serif;
+}
+
+h2 {
+ 	font-size: 1.5em;
+	font-weight: bold;
+ 	width: 90%;
+ 	margin: 10px auto;
+	color :  #20603d;
 }
 
  h3 {
@@ -77,20 +84,17 @@ h1{
 	  font-family: Helvetica, sans-serif;
 	  color:#133924;
  }
-
 p{
 	font-size: 1em; font-weight: 400;
 	font-family: Helvetica, sans-serif;
 }
 
 /*Separations*/
-
 hr {
 	display:block;
 	background-color: #ffffff;
 	text-align:center;
 }
-
 .br{
 	width: 100%;
 	height: 2px;
@@ -98,13 +102,10 @@ hr {
 }
 
 /*Listes*/
-
-.ul{
+ul{
 	list-style-type:circle;
-	text-align:justify;
+	text-align:left;
 }
-
-
 
 /*Image*/
 img{
@@ -145,22 +146,11 @@ div.agauche
 	border-color:#ffffff;
 }
 
-/*Sous-titres h2*/
-h2 {
- 	font-size: 1.5em;
-	font-weight: bold;
- 	width: 90%;
- 	margin: 10px auto;
-	color :  #20603d;
-}
-
 
 /*Lien*/
-
 a:link {
 	color: black;
 }
-
 a:visited {
 	color: #3cb371;
 }
