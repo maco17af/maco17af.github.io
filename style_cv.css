@@ -13,7 +13,7 @@ div.entete{
 	width: 100%;
 	padding: 6px 18px;
 	font-size: 1em;
-	border-bottom: 5px solid #fff;
+	border-bottom: 2px solid #fff;
 	height: 160px;
 	background-size: cover;
 	background-position: center;
@@ -29,10 +29,11 @@ div.entete{
 div.enbas{
 	background: url("original.png");
 	width: 100%;
-	margin-top: 0px; 
-	margin-bottom:15px;
+	margin-top: 2px; 
+	margin-bottom:0px;
 	padding: 6px 18px;
-    	border-top: 15px solid #fff;
+    	border-top: 2px solid #fff;
+	text-align:center;
 }
 
 /*Style du texte*/
@@ -97,8 +98,7 @@ hr {
 
 .ul{
 	list-style-type:circle;
-	margin:0;
-	padding:0;
+	text-align:justify;
 }
 
 
