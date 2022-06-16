@@ -1,2 +1,25 @@
+/*Titre*/
+.title{
+	font-size:2em;
+	font-weight:700;
+	font-weight:bold;
+}
+
+/*En tete*/
+div.entete{
+	font-size: 1em;
+	font-style:italic;
+	color:#133924;
+	text-align:center;
+}
+
+
+
+
+/*En bas*/
+div.enbas {text-align:right;}
+a:link {
+	color: black;
+}
 
 	
