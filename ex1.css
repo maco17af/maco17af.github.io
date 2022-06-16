@@ -1,18 +1,84 @@
 
 /*A gauche*/
 div.agauche{
+	  width: 200px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: grey;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+h1.agauche {
+  text-align: center;
+}
+
+p.agauche {
+  text-align: left;
 }
 
 /*Au milieu*/
 div.aumilieu1{
+	  width: 350px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: grey;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
+
+h1.aumilieu1 {
+  text-align: center;
+}
+
+p.aumilieu1 {
+  text-align: justify;
+}
+
 div.aumilieu2{
+	  width: 350px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: grey;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+h1.aumilieu2 {
+  text-align: right;
+}
+
+p.aumilieu2 {
+  text-align: justify;
 }
 
 /*A droite*/
 div.adroite{
+	  width: 200px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: grey;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+h1.adroite {
+  text-align: center;
+}
+
+p.adroite {
+  text-align: right;
 }
 
 /*En bas*/
 div.enbas{
+	  width: 500px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: grey;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+h1.enbas {
+  text-align: center;
+}
+
+p.enbas {
+  text-align: center;
 }
